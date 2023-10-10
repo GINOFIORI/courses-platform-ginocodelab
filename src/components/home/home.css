@@ -1,0 +1,57 @@
+/* src/components/Home.css */
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .course-categories {
+    margin-top: 40px;
+  }
+  
+  .course-categories h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .course-categories ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .course-categories li {
+    font-size: 1.2rem;
+    margin: 5px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .about-platform {
+    margin-top: 40px;
+  }
+  
+  .about-platform h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-platform p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
